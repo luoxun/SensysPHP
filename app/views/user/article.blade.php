@@ -1,0 +1,1 @@
+C:\xampp\htdocs\sensysphpv2\app/views/home/article.blade.php
